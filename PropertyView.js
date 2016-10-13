@@ -47,8 +47,10 @@ class PropertyView extends Component {
     var property = this.props.property;
     var stats = property.bedroom_number + ' bed ' + property.property_type;
     if (property.bathroom_number) {
-      stats += ', ' + property.bathroom_number + ' ' + (property.bathroom_number > 1 ? 'bathrooms' : 'bathroom');
+      stats += ', ' + property.bathroom_number + ' ' + (property.bathroom_number > 1
+        ? 'bathrooms' : 'bathroom');
     }
+
     var price = property.price_formatted.split(' ')[0];
 
     return (
@@ -68,11 +70,3 @@ class PropertyView extends Component {
 }
 
 module.exports = PropertyView;
-
-
-
-
-
-
-
-
