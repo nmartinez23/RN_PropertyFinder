@@ -10,7 +10,7 @@ This project was built with React-Native which is capable of developing iOS and 
 * Javascript, JSX
 * Nestoria API, JSON
 
-You can download the Zip file or clone the repo. Please see the instructions at https://facebook.github.io/react-native/docs/getting-started.html to install and run React-Native.
+You can download the Zip file or fork and clone the repo. Please see the instructions at https://facebook.github.io/react-native/docs/getting-started.html to install and run React-Native.
 
 If you run into issues when you try to run and build the app in the Xcode simulator, carefully review the following StackOverflow post here: http://stackoverflow.com/questions/37189081/react-native-command-not-found?noredirect=1&lq=1
 
