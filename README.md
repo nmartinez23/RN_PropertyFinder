@@ -2,6 +2,9 @@
 
 This project was built with React-Native which is capable of developing iOS and Android applications. This app is built for iOS. The Nestoria API has been integrated to allow users to search property listings for sale. Users can either enter the location or use Geo Location to search properties in their area.
 
+![screen shot 2017-01-19 at 10 55 27 pm](https://cloud.githubusercontent.com/assets/14083180/22139388/7e6a70c2-de9a-11e6-9a19-fde715d16912.png)
+
+
 ## Technologies Used
 
 * React-Native
